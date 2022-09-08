@@ -1,6 +1,6 @@
 ## by Lucas Novales
 ### Repositorio sobre procesado digital de la señal.
 
-En este repositorio encontrarás distintos ejemplos sobre procesado digital de la señal combinados con el uso de la Adalm-Pluto, una SDR (Software Defined Radio) de caracter didáctico
+En este repositorio encontrarás distintos ejemplos de Matlab & Simulink relacionados con el procesado digital de la señal y la Adalm-Pluto, una SDR (Software Defined Radio) de caracter didáctico.
 
 ¡Disfruta!
